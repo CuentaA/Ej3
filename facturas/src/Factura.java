@@ -7,4 +7,9 @@ public class Factura {
 	private Estados estado;
 	
 	public void main () {}
+	void getTotal() {
+	}
+	void getCantidadIva() {
+		
+	}
 }
